@@ -1,15 +1,73 @@
 body {
-    background-color: antiquewhite;
+    background-color:black;
 }
 
+.img-fluid {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 20%;
+}
 
 .titel {
-    color: purple;
+    color:cyan;
     text-align: center;
-    font-size: 70px;
+    font-size: 200px;
 }
 
 .bodyimage {
     width: 500px;
     height: auto;
+}
+
+
+.bildcontainer{
+    margin-bottom: 2%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.aktion{
+    color:chartreuse;
+    text-align: center;
+    font-size: 70px
+}
+
+.aktionp {
+    color:chartreuse;
+    font-size: 30px;
+    text-align: center;
+}
+
+.über {
+    background-color: green;
+    margin: center;
+    font-size: 20px
+}
+
+.überh{
+    font-size: 60px;
+    text-align: center
+}
+
+.überp {
+    text-align: center
+}
+
+.bildcontaine {
+    text-align: center;
+}
+
+.Kundenservi {
+    background-color:darkorange;
+    margin: center;
+    font-size: 20px;
+}
+
+.kunden{
+    font-size: 70px;
+    text-align: center;
+}
+
+.Kundenservi{
+    display: flex;
 }
